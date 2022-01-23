@@ -1,2 +1,2 @@
 # mctimo.github.io
-Adaptive site 
+Adaptive site demo
